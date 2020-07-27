@@ -1,0 +1,4 @@
+#忽略index.html 忽略所有*.html
+#index1.css
+#忽略text文件
+/test
